@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RandomApp</string>
+    <string name="find_users">Find Users</string>
+    <string name="clear_users">Clear Users</string>
+    <string name="user_id_data">user_id_data</string>
+    <string name="gender">Gender</string>
+    <string name="user_gender_data">user_gender_data</string>
+    <string name="id">Id</string>
+    <string name="user_coordinates_data">user_coordinates_data</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="user_password_data">user_password_data</string>
+    <string name="password">Password</string>
+    <string name="user_email_data">user_email_data</string>
+    <string name="email">Email</string>
+    <string name="user_phone_number_data">user_phone_number_data</string>
+    <string name="phone_number">Phone number</string>
+    <string name="user_birthday_data">user_birthday_data</string>
+    <string name="birthday">Birthday</string>
+    <string name="user_address_data">user_address_data</string>
+    <string name="address">Address</string>
+    <string name="sophia_owens">Sophia Owens</string>
+    <string name="user_info">User Info</string>
+    <string name="username">UserName</string>
+    <string name="usersurname">UserSurName</string>
+    <string name="_26_years">26 years</string>
+</resources>
